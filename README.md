@@ -1,3 +1,6 @@
+#拷貝自https://github.com/microsoft/Reporting-Services/tree/master/CustomSecuritySample2016
+#更改範圍: 1. Logon.aspx 改成進入就認證完成跳頁 2. checkAccess 改為 return true, 跳過認證
+
 # Reporting Services Custom Security Sample
 This project contains a sample and the steps that allow you to deploy a custom security extension to SQL Reporting Services 2016.
 
