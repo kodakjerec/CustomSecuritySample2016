@@ -1,0 +1,14 @@
+D:\GIT\Reporting-Services\CustomSecuritySample2016\obj\Debug\CustomSecurity.csprojResolveAssemblyReference.cache
+D:\GIT\Reporting-Services\CustomSecuritySample2016\obj\Debug\Microsoft.Samples.ReportingServices.CustomSecurity.App_LocalResources.Logon.aspx.resources
+D:\GIT\Reporting-Services\CustomSecuritySample2016\obj\Debug\Microsoft.Samples.ReportingServices.CustomSecurity.CustomSecurity.resources
+D:\GIT\Reporting-Services\CustomSecuritySample2016\obj\Debug\CustomSecurity.csproj.GenerateResource.Cache
+C:\Reporting-Services-master\CustomSecuritySample2016\obj\Debug\Microsoft.Samples.ReportingServices.CustomSecurity.App_LocalResources.Logon.aspx.resources
+C:\Reporting-Services-master\CustomSecuritySample2016\obj\Debug\Microsoft.Samples.ReportingServices.CustomSecurity.CustomSecurity.resources
+C:\Reporting-Services-master\CustomSecuritySample2016\obj\Debug\CustomSecurity.csproj.GenerateResource.cache
+C:\Reporting-Services-master\CustomSecuritySample2016\obj\Debug\CustomSecurity.csproj.CoreCompileInputs.cache
+C:\Reporting-Services-master\CustomSecuritySample2016\bin\Debug\Microsoft.Samples.ReportingServices.CustomSecurity.dll.config
+C:\Reporting-Services-master\CustomSecuritySample2016\bin\Debug\Microsoft.Samples.ReportingServices.CustomSecurity.dll
+C:\Reporting-Services-master\CustomSecuritySample2016\bin\Debug\Microsoft.Samples.ReportingServices.CustomSecurity.pdb
+C:\Reporting-Services-master\CustomSecuritySample2016\obj\Debug\Microsoft.Samples.ReportingServices.CustomSecurity.dll
+C:\Reporting-Services-master\CustomSecuritySample2016\obj\Debug\Microsoft.Samples.ReportingServices.CustomSecurity.pdb
+C:\Reporting-Services-master\CustomSecuritySample2016\obj\Debug\CustomSecurity.csprojAssemblyReference.cache
