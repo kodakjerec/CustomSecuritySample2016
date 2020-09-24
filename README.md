@@ -1,8 +1,12 @@
 # 拷貝自
 # https://github.com/microsoft/Reporting-Services/tree/master/CustomSecuritySample2016  
-## 操作步驟:
-## 1.先用主控台新增角色 administrator, 給予報表權限
-## 2.拷貝[SSRS設定檔]覆蓋到SSRS主機上
+## 正常操作步驟:
+## 1.本專案預設Windows登入帳號為 administrator, 而且有權限存取報表主機
+## 2.先依照原版說明架設主機, 依循正常登入步驟, 新增CustomSecurity專用帳號 administrator
+## 3.拷貝[SSRS設定檔]覆蓋到SSRS主機上(預設路徑: C:\Program Files\Microsoft SQL Server Reporting Services\SSRS )
+## 簡化版:
+## 1.還原UserAccounts.bak(放置於 本專案\SSRS設定檔 )
+## 2.拷貝[SSRS設定檔]覆蓋到SSRS主機上(預設路徑: C:\Program Files\Microsoft SQL Server Reporting Services\SSRS )
 
 # Reporting Services Custom Security Sample
 This project contains a sample and the steps that allow you to deploy a custom security extension to SQL Reporting Services 2016.
