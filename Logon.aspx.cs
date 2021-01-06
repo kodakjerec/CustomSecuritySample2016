@@ -20,22 +20,10 @@
 ===========================================================================*/
 #endregion
 
-using System;
-using System.Collections;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Web;
-using System.Web.SessionState;
-using System.Web.UI;
-using System.Web.UI.WebControls;
-using System.Web.UI.HtmlControls;
-using System.Data.SqlClient;
-using System.Security.Cryptography;
-using System.Web.Security;
-using Microsoft.ReportingServices.Interfaces;
 using Microsoft.Samples.ReportingServices.CustomSecurity.App_LocalResources;
+using System;
 using System.Globalization;
+using System.Web.Security;
 
 namespace Microsoft.Samples.ReportingServices.CustomSecurity
 {
@@ -61,7 +49,7 @@ namespace Microsoft.Samples.ReportingServices.CustomSecurity
             if (passwordVerified)
             {
                 FormsAuthentication.RedirectFromLoginPage(
-                   TxtUser.Text, false);
+                   TxtUser.Text, true);
             }
         }
 

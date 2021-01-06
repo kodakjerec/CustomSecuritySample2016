@@ -26,7 +26,7 @@ namespace Microsoft.Samples.ReportingServices.CustomSecurity.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.WebServiceUrl)]
-        [global::System.Configuration.DefaultSettingValueAttribute("http://192.168.1.20:3002/ReportServer/ReportService2010.asmx")]
+        [global::System.Configuration.DefaultSettingValueAttribute("http://192.168.2.210:3002/ReportServer/ReportService2010.asmx")]
         public string Microsoft_Samples_ReportingServices_CustomSecurity_localhost_ReportingService2010 {
             get {
                 return ((string)(this["Microsoft_Samples_ReportingServices_CustomSecurity_localhost_ReportingService2010" +
@@ -36,8 +36,8 @@ namespace Microsoft.Samples.ReportingServices.CustomSecurity.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Server=WIN-4VNVEL1LAB3\\SQLEXPRESS; Trusted_Connection=false;User Id=sa;Password=S" +
-            "A1000101sa;database=UserAccounts")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Server=SEELOVE-JS; Trusted_Connection=false;User Id=sa;Password=SA1000101sa;datab" +
+            "ase=UserAccounts")]
         public string Database_ConnectionString {
             get {
                 return ((string)(this["Database_ConnectionString"]));
